@@ -1,0 +1,12 @@
+<wpml-config>
+    <admin-texts>
+      <key name="ywraq_show_btn_link_text" />
+      <key name="ywraq_message_after_sent_the_request" />
+        <key name="woocommerce_ywraq_email_settings">
+            <key name="subject" />
+            <key name="heading" />
+            <key name="email-title" />
+            <key name="email-description" />
+        </key>
+    </admin-texts>
+</wpml-config>

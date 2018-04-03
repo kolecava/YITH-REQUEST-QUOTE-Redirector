@@ -1,0 +1,887 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YIT WooCommerce Request a Quote\n"
+"POT-Creation-Date: 2017-09-29 12:51+0200\n"
+"PO-Revision-Date: 2017-09-29 12:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-request-quote-admin.php:102
+#: ../includes/class.yith-request-quote-admin.php:314
+msgid "Plugin Documentation"
+msgstr "Plugin Dokumentation"
+
+#: ../includes/class.yith-request-quote-admin.php:106
+#, fuzzy
+#| msgid "to the premium version"
+msgid "Discovery premium version"
+msgstr "auf die Premium Version"
+
+#: ../includes/class.yith-request-quote-admin.php:110
+msgid "Free Vs Premium"
+msgstr ""
+
+#: ../includes/class.yith-request-quote-admin.php:114
+#, fuzzy
+#| msgid "Premium Version"
+msgid "Premium live demo"
+msgstr "Premium Version"
+
+#: ../includes/class.yith-request-quote-admin.php:118
+msgid "WordPress support forum"
+msgstr ""
+
+#: ../includes/class.yith-request-quote-admin.php:122
+#, php-format
+msgid "Changelog (current version %s)"
+msgstr ""
+
+#: ../includes/class.yith-request-quote-admin.php:178
+#: ../includes/class.yith-request-quote-admin.php:286
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../includes/class.yith-request-quote-admin.php:182
+#: ../includes/class.yith-request-quote-admin.php:288
+msgid "Premium Version"
+msgstr "Premium Version"
+
+#: ../includes/class.yith-request-quote-admin.php:185
+msgid "Layout"
+msgstr "Layout"
+
+#: ../includes/class.yith-request-quote-admin.php:186
+msgid "Exclusion List"
+msgstr "Ausschlussliste"
+
+#: ../includes/class.yith-request-quote-admin.php:192
+#: ../includes/class.yith-request-quote-admin.php:193
+#: ../includes/class.yith-request-quote-admin.php:242
+msgid "Request a Quote"
+msgstr "Angebot anfordern"
+
+#: ../includes/class.yith-request-quote-admin.php:241
+msgctxt "page_slug"
+msgid "request-quote"
+msgstr "Angebotsanfrage"
+
+#: ../includes/class.yith-request-quote-frontend.php:152
+msgid "Your list is empty"
+msgstr "Ihre Liste ist leer"
+
+#: ../includes/class.yith-request-quote-frontend.php:201
+#: ../includes/functions.yith-request-quote.php:387
+msgid "Browse the list"
+msgstr "Liste Durchsuchen"
+
+#: ../includes/class.yith-request-quote.php:282
+#: ../includes/class.yith-request-quote.php:440
+#: ../includes/class.yith-request-quote.php:486
+#: ../includes/class.yith-request-quote.php:726
+msgid "Product already in the list."
+msgstr "Produkt ist bereits in der Liste."
+
+#: ../includes/class.yith-request-quote.php:430
+msgid "Error occurred while adding product to Request a Quote list."
+msgstr "Fehler beim Hinzufügen in die Liste."
+
+#: ../includes/class.yith-request-quote.php:437
+msgid "Product added!"
+msgstr "Produkt hinzugefügt!"
+
+#: ../includes/class.yith-request-quote.php:558
+msgid "Please enter a name"
+msgstr "Bitte geben sie Ihren Namen ein"
+
+#: ../includes/class.yith-request-quote.php:562
+msgid "Please enter a valid email"
+msgstr "Bitte geben sie eine gültige Emailadresse ein"
+
+#: ../includes/class.yith-request-quote.php:566
+msgid "Your list is empty, add products to the list to send a request"
+msgstr ""
+"Ihre Liste ist leer. Bitte fügen sie eine oder mehrere Anfragen  in die "
+"Liste ein."
+
+#: ../includes/class.yith-request-quote.php:701
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class.yith-request-quote.php:705
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: ../includes/class.yith-request-quote.php:723
+#, fuzzy
+#| msgid "Product already in the list."
+msgid "Product added to the list!"
+msgstr "Produkt ist bereits in der Liste."
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:31
+msgid "Email to request a quote"
+msgstr "Nachricht senden um eine Angebot anzufragen"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:32
+msgid "This email is sent when a user clicks on \"Request a quote\" button"
+msgstr ""
+"Diese Diese Email wird gesendet, wenn ein Benutzer auf \"Angebot anfragen\" "
+"klickt"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:34
+msgid "Request a quote"
+msgstr "Angebot anfragen"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:35
+msgid "[Request a quote]"
+msgstr "[Angebot anfragen]"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:82
+msgid "Your request has been sent successfully"
+msgstr "Ihre Anfrage wurde erfolgreich gesendet"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:84
+msgid "There was a problem in sending your request. Please try again."
+msgstr ""
+"Beim absenden Ihrerer Anfrage ist ein Problem aufgetretten. Bitte versuchen "
+"sie es nochmal."
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:173
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:175
+msgid "Enable this email notification"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:179
+msgid "\"From\" Name"
+msgstr "\"Von\" Name"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:186
+msgid "\"From\" Email Address"
+msgstr "\"Von\" Email Addresse"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:193
+msgid "Subject"
+msgstr "Betreff"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:195
+#, php-format
+msgid ""
+"This field lets you modify the email subject line. Leave it blank to use "
+"default subject: <code>%s</code>."
+msgstr ""
+"Dieses feld erlaubt Ihnen das ändern Email Betreffzeile. Blank lassen für "
+"Standart: <code>%s</code>."
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:200
+msgid "Recipient(s)"
+msgstr "Empfänger(n)"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:202
+#, php-format
+msgid ""
+"Enter recipients (comma separated) for this email. Defaults to <code>%s</"
+"code>"
+msgstr ""
+"Geben sie mehrere Empfänger gleichzeitig ein. Getrennt mit kommas <code>%s</"
+"code>"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:207
+msgid "Send CC copy"
+msgstr "Ein Kopie senden"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:209
+msgid "Send a carbon copy to the user"
+msgstr "Senden Sie eine Kopie an den Benutzer"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:213
+msgid "Email Heading"
+msgstr "Email Kopfzeile"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:215
+#, php-format
+msgid ""
+"This field lets you modify the main heading contained within the email "
+"notification. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"In diesem Feld können Sie die Hauptüberschrift in der E-Mail- "
+"Benachrichtigung ändern. Leer lassen , um die Standardschrift zu verwenden :"
+"<code>%s</code>."
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:220
+msgid "Email type"
+msgstr "Art der Email"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:222
+msgid "Choose format for the email to be sent."
+msgstr "Wählen das Format aus, für die Email die versendet werden soll."
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:226
+msgid "Plain text"
+msgstr "Klartext"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:227
+msgid "HTML"
+msgstr "HTML"
+
+#: ../includes/emails/class.yith-ywraq-send-email-request-quote.php:228
+msgid "Multipart"
+msgstr "Multipart"
+
+#: ../plugin-options/settings-options.php:21
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Upgrade auf die PREMIUM VERSION"
+
+#: ../plugin-options/settings-options.php:24
+msgid "YITH Woocommerce Request A Quote"
+msgstr "YITH Woocommerce Request A Quote (Angebot anfordern)"
+
+#: ../plugin-options/settings-options.php:25
+msgid "Discover the Advanced Features"
+msgstr "Entdecken Sie die erweiterten Funktionen"
+
+#: ../plugin-options/settings-options.php:26
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH Woocommerce Request A Quote to "
+"benefit from all features!"
+msgstr ""
+"Upgrade auf die Premium-Version von Yith WooCommerce Request A Quote um von "
+"allen Funktionen zu profitieren!"
+
+#: ../plugin-options/settings-options.php:30
+msgid "YITH WooCommerce Request A Quote"
+msgstr "YITH WooCommerce Request A Quote (Angebot anfordern)"
+
+#: ../plugin-options/settings-options.php:32
+msgid "Get Support and Pro Features"
+msgstr "Hole dir Support und die Pro Features"
+
+#: ../plugin-options/settings-options.php:33
+msgid ""
+"By purchasing the premium version of the plugin, you will benefit from the "
+"advanced features of the product and you will get one year of free update "
+"and support through our platform available 24h/24."
+msgstr ""
+"Mit dem Kauf der Premium- Version des Plugins , werden Sie von den "
+"erweiterten Funktionen dieses Produkts profitieren. Sie bekommen ein Jahr "
+"lang kostenlose Updates und unterstützung über unsere Plattform, die rund um "
+"die Uhr erreichbar ist."
+
+#: ../plugin-options/settings-options.php:43
+msgid "Request a Quote - General settings"
+msgstr "Angebot Anfordern - Allgemeine Einstellungen"
+
+#: ../plugin-options/settings-options.php:49
+msgid "Request Quote Page"
+msgstr "Angebot Anfordern Seite"
+
+#: ../plugin-options/settings-options.php:50
+msgid "Page contents: [yith_ywraq_request_quote]"
+msgstr "Seiteninhalte: [yith_ywraq_request_quote]"
+
+#: ../plugin-options/settings-options.php:59
+msgid "Button type"
+msgstr "Button typ"
+
+#: ../plugin-options/settings-options.php:64
+msgid "Link"
+msgstr "Link"
+
+#: ../plugin-options/settings-options.php:65
+msgid "Button"
+msgstr "Button"
+
+#: ../plugin-options/settings-options.php:71
+msgid "Button/Link text"
+msgstr "Button/Link text"
+
+#: ../plugin-options/settings-options.php:75
+msgid "Add to quote"
+msgstr "Zur Anfrage hinzufügen"
+
+#: ../plugin-options/settings-options.php:79
+msgid "Hide \"Add to cart\" button"
+msgstr "Verstecke \"Hinzufügen\" Button"
+
+#: ../templates/add-to-quote.php:16
+msgid "The product is already in quote request list!"
+msgstr "Produkt ist bereits in der Anfrage Liste."
+
+#: ../templates/admin/premium.php:199 ../templates/admin/premium.php:641
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Request a Quote"
+"%2$s to benefit from all features!"
+msgstr ""
+"Upgrade auf %1$spremium version%2$s of %1$sYITH WooCommerce Request a Quote"
+"%2$s um von allen Funktionen zu profitieren!"
+
+#: ../templates/admin/premium.php:202 ../templates/admin/premium.php:644
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: ../templates/admin/premium.php:203 ../templates/admin/premium.php:645
+msgid "to the premium version"
+msgstr "auf die Premium Version"
+
+#: ../templates/admin/premium.php:209
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: ../templates/admin/premium.php:217
+msgid "CUSTOMISED BUTTON"
+msgstr "KUNDEN BUTTON"
+
+#: ../templates/admin/premium.php:220
+#, php-format
+msgid ""
+"Choose the style you prefer for your %s\"Add to Quote\"%s button! In the "
+"plugin option panel users will be able to find a section to set colours and "
+"text for the button"
+msgstr ""
+"Wählen sie den bevorzugten Stil für %s\"Add to Quote\"%s button! In dem "
+"Plugin Options Panel, kann der Benutzer für den Button die Farben und den "
+"Text einstellen oder ändern."
+
+#: ../templates/admin/premium.php:230
+msgid "NOT JUST IN PRODUCT PAGE"
+msgstr "NICHT NUR AUF DER PRODUKTSEITE"
+
+#: ../templates/admin/premium.php:233
+#, php-format
+msgid ""
+"Give users the opportunity to add one or more products to their list for a "
+"quote request from many different pages in your shop, and %snot just from "
+"product detail page%s. Enable this option and the button will be shown also "
+"in other pages of your store."
+msgstr ""
+"Geben Sie den Nutzern die Möglichkeit, eine Preisanfrage - Liste zu "
+"erstellen, die mehrere Produkte beinhaltet aus verschiedenen Seiten Ihres "
+"Shops und %snicht nur aus  der Produkt Details Seite %s. Aktivieren Sie "
+"diese Option und der Button wird auch in den anderen Seiten Ihres Shops "
+"angezeigt."
+
+#: ../templates/admin/premium.php:248
+msgid "HIDE PRODUCT PRICE"
+msgstr "PRODUKT PREIS NICHT ANZEIGEN"
+
+#: ../templates/admin/premium.php:250
+msgid ""
+"Suppose that you do not want to show price for products in your shop. Just a "
+"click and your wish comes true. Enable the option \"Hide Price\" and it's "
+"done!"
+msgstr ""
+"Nehmen wir an , Sie möchten den Preis für Ihre Artikel in Ihrem Shop nicht "
+"anzeigen. Mit nur einen Klick geht Ihr Wunsch in Erfüllung. Aktivieren Sie "
+"die Option \"Hide Preis \" und fertig !"
+
+#: ../templates/admin/premium.php:259
+msgid "EXCLUSION TABLE"
+msgstr "AUSSCHLUSS TABELLE"
+
+#: ../templates/admin/premium.php:262
+#, php-format
+msgid ""
+"A dedicated list where you can add those products that have to be excluded "
+"from quote requests. Enable the specific option and \"Add to Quote\" button "
+"will %snot be displayed%s for products in this table. "
+msgstr ""
+"Eine spezielle Liste, in dem Sie die  ausgeschlossenen Produkte  von den "
+"Preisanfragen ausschließen können. Aktivieren Sie diese spezifischeand  "
+"Option und \"Zur Anfrage hinzufügen\" button wird %snicht angezeigt%s für "
+"Produkte aus dieser Liste. "
+
+#: ../templates/admin/premium.php:277
+msgid "USER FILTERS"
+msgstr "Benutzerfilter"
+
+#: ../templates/admin/premium.php:280
+#, php-format
+msgid ""
+"A specific option allows you to filter users to which applying plugin "
+"features. You can choose among %1$sregistered%2$s users, %1$sunregistered"
+"%2$s ones or let the plugin work for all of them without making any "
+"distinction. "
+msgstr ""
+"Eine spezielle Option ermöglicht es Ihnen, Benutzer zu filtern, um die "
+"Anwendung Plugin Funktionen. Sie können zwischen %1$sregistered%2$s Benutzer,"
+"%1$sunregistered%2$s wählen, oder lassen Sie das Plugin die Arbeit für alle "
+"machen ohne einen Unterschied."
+
+#: ../templates/admin/premium.php:289
+msgid "REQUEST FORM"
+msgstr "ANFRAGEFORMULAR"
+
+#: ../templates/admin/premium.php:292
+#, fuzzy, php-format
+#| msgid ""
+#| "The plugin includes a default form for %ssending emails%s, but if you "
+#| "feel you're not satisfied by the form you find there, you can enjoy "
+#| "creating your contact form using \"Contact Form 7\" and \"YITH Contact "
+#| "Form\". Two external plugins that, once correctly set, work perfectly to "
+#| "improve your plugin features."
+msgid ""
+"The plugin includes a default form for %ssending emails%s, but if you feel "
+"you're not satisfied by the form you find there, you can enjoy creating your "
+"contact form using %1$s\"Contact Form 7\"%2$s, %1$s\"Gravity Form\"%2$s and "
+"%1$s\"YITH Contact Form\"%2$s. %3$sThree external plugins that, once "
+"correctly set, work perfectly to improve your plugin features."
+msgstr ""
+"Das Plugin enthält ein Standardformular für E-Mails %ssending%s, aber wenn "
+"du das Gefühl haben, das sie mit dem Formular nicht zufrieden sind, können "
+"sie mit dem mit \"Contact Form 7\" und \"Yith Kontaktformular\" selber eins "
+"erstellen. Zwei externe Plugins, die einmal richtig eingestellt wurden, "
+"arbeiten perfekt auf die Plugin Features."
+
+#: ../templates/admin/premium.php:307
+msgid "REQUEST MANAGEMENT"
+msgstr "ANFORDERUNGSMANAGMENT"
+
+#: ../templates/admin/premium.php:310
+#, php-format
+msgid ""
+"Every request you get is treated like an order! Yes, that's it. As soon as a "
+"user sends a quote request, you will see it in WooCommerce \"Orders\" "
+"section. %sMany details for each request%s, from current status to the "
+"username that generated it. A rich page specifically created to have "
+"everything there and at a hand's grasp."
+msgstr ""
+"Jede Anfrage die erhalten, wird wie ein Bestellung  behandelt! Richtig ! "
+"Sobald ein Benutzer eine Preisanfrage sendet, wird es in WooCommerce "
+"\"Bestellung\" ausgehändigt. %sMany details for each request%s, auf den "
+"Benutzernamen abgestimmt. Eine Umfangreiche Seite um alles darauf Hand "
+"zuhaben."
+
+#: ../templates/admin/premium.php:320
+msgid "SEND THE QUOTE"
+msgstr "SENDEN SIE IHREN PREISVORSCHLAG"
+
+#: ../templates/admin/premium.php:323
+#, php-format
+msgid ""
+"The best of interaction with your users. They send their request and you can "
+"answer so simply, just need to access your admin panel. A few steps to send "
+"the right proposal that %spersuades%s your customer to purchase."
+msgstr ""
+"Die Beste Interaktion mit den Kunden. Ihre Kunden schicken ihre Anfragen die "
+"Sie beantworten, und das ganz einfach über Ihren Admin-Panel. Mit wenigen "
+"Schritten, die richtigen Vorschläge,%spersuades%s an Ihre Kunden senden."
+
+#: ../templates/admin/premium.php:338
+msgid "ACCEPT OR REJECT?"
+msgstr "ANNEHMEN ODER ABLEHNEN"
+
+#: ../templates/admin/premium.php:341
+#, php-format
+msgid ""
+"Users can decide whether to %1$saccept%2$s or %1$sreject%2$s your quote "
+"proposal directly from the email they've got. Two simple choice options, "
+"that show professionalism and that your users will certainly appreciate. In "
+"case they accept, they will be redirected to the order checkout."
+msgstr ""
+"Benutzer können direkt an der Email entscheiden, ob  sie %1$saccept %2$s "
+"oder %1$sreject %2$s nach dem sie Ihre Nachricht erhalten. Zwei einfache "
+"Auswahl optionen werden angezeigt, die Ihre Kunden sicherlich zu schätzen "
+"wissen über die leichtigkeit. Für den Fall, dass Ihre Kunden akzeptieren, "
+"wird direkt zur Kasse weitergeleitet."
+
+#: ../templates/admin/premium.php:352
+msgid "A QUOTE WITH EXPIRATION"
+msgstr "EIN ANGEBOT MIT ABLAUF"
+
+#: ../templates/admin/premium.php:355
+#, php-format
+msgid ""
+"You made a good offer, one that cannot be rejected, and you want to urge "
+"your customer to purchase by %ssetting an expiration date for the proposal "
+"you are offering?%s Add the expiration date directly from the request page "
+"while you are writing your undeniable proposal."
+msgstr ""
+"Sie haben ein gutes Angebot das nicht abgelehnt werden kann und möchten Ihre "
+"Kunden auf %ssetting mehr aufmerksam machen oder auf ein Zeitlich begrenztes "
+"Produkt? %s fügt das Ablaufdatum direkt von der Anforderungseite, während "
+"Sie Ihre unbestreitbare Vorschläge schreiben."
+
+#: ../templates/admin/premium.php:371
+msgid "Send PDF attachment"
+msgstr "PDF-Anhang senden"
+
+#: ../templates/admin/premium.php:374
+msgid ""
+"Choose the best form to send your quote offer: send the quote and the list "
+"of selected products either in the email body, or as PDF attachment or both "
+"of them. Everyone with their own style and needs."
+msgstr ""
+"Wählen Sie die beste Form um Ihr Angebot-Angebot senden: senden Sie das "
+"Angebot und die Liste der ausgewählten Produkte in den e-Mail-Text oder als "
+"PDF-Anlage oder beide. Jeder mit seinen eigenen Stil und Bedürfnisse."
+
+#: ../templates/admin/premium.php:384
+#, fuzzy
+#| msgid "Widget"
+msgid "Widgets"
+msgstr "Widget"
+
+#: ../templates/admin/premium.php:386
+#, php-format
+msgid ""
+"Two widgets, different for style, allow you to show to users the "
+"%1$scomplete list of products%2$s they selected to request the quote to send "
+"to site administrator."
+msgstr ""
+
+#: ../templates/admin/premium.php:402
+msgid "Recent requests in \"My Account\""
+msgstr "Aktuelle Anfragen in \"Mein Konto\""
+
+#: ../templates/admin/premium.php:405
+#, php-format
+msgid ""
+"All users registered in your store can see all quote requests they have sent "
+"from %s\"My Account\"%s page and check details, included the current status "
+"for them."
+msgstr ""
+"Alle Kunden die in Ihrem Shop registriert sind, können alle Anfragen die von "
+"denen gesendet wurden einsehen. Auf der Seite  %s\"Mein Konto\"%s können sie "
+"alle Informationen und den Aktuellen Status bezüglich ihrer Anfrage einehen."
+
+#: ../templates/admin/premium.php:415
+msgid "PDF FOOTER"
+msgstr ""
+
+#: ../templates/admin/premium.php:417
+#, php-format
+msgid ""
+"To add a %1$scustom text%2$s with the most appropriate and useful "
+"information."
+msgstr ""
+
+#: ../templates/admin/premium.php:433
+msgid "PDF PAGING"
+msgstr ""
+
+#: ../templates/admin/premium.php:436
+#, php-format
+msgid ""
+"By activating %1$sPDF Paging%2$s, customers do not have to scroll the page "
+"repeatedly. Thanks to PDF wide contents they can carefully read your offer."
+msgstr ""
+
+#: ../templates/admin/premium.php:446
+msgid "ADDITIONAL COSTS"
+msgstr ""
+
+#: ../templates/admin/premium.php:448
+#, php-format
+msgid ""
+"It’s easy to add %1$sadditional and shipping costs%2$s and create a quote as "
+"accurate as possible."
+msgstr ""
+
+#: ../templates/admin/premium.php:464
+msgid "PRICE CHANGE"
+msgstr ""
+
+#: ../templates/admin/premium.php:467
+#, php-format
+msgid ""
+"Special customers deserve special prices! This plugin allows to %1$schange "
+"prices in the quote%2$s without altering prices in the shop."
+msgstr ""
+
+#: ../templates/admin/premium.php:477
+msgid "Edit the shipping and billing addresses"
+msgstr ""
+
+#: ../templates/admin/premium.php:480
+msgid ""
+"You can edit the users' shipping and billing addresses while creating the "
+"quote. This is useful, for example, if your users wish to receive the order "
+"at a different address rather than the one available on their profile."
+msgstr ""
+
+#: ../templates/admin/premium.php:483
+#, php-format
+msgid ""
+"And that's not all! You can also %1$sprevent the users from editing the "
+"checkout fields%2$s and avoid changes of the data previously inserted. "
+msgstr ""
+
+#: ../templates/admin/premium.php:499
+msgid "Prevent changes to shipping method "
+msgstr ""
+
+#: ../templates/admin/premium.php:502
+#, php-format
+msgid ""
+"Enrich your proposal by adding shipping fees. You can optionally choose "
+"whether to let users select or not a %1$sshipping method different from the "
+"one specified in the quote%2$s during the checkout process. "
+msgstr ""
+
+#: ../templates/admin/premium.php:512
+msgid "PDF DOWNLOAD"
+msgstr ""
+
+#: ../templates/admin/premium.php:514
+#, php-format
+msgid ""
+"PDF can be downloaded at any time in %1$s\"My Account\"%2$s page. Certainly "
+"useful for those customers who lost the quote attached to your email."
+msgstr ""
+
+#: ../templates/admin/premium.php:530
+msgid "EMAIL ATTACHMENT"
+msgstr ""
+
+#: ../templates/admin/premium.php:533
+#, php-format
+msgid ""
+"With this Premium Version plugin, any file can be attached to emails. "
+"%1$sQuotes will be richer!%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:543
+msgid "OUT OF STOCK PRODUCTS"
+msgstr ""
+
+#: ../templates/admin/premium.php:545
+#, php-format
+msgid ""
+"A chance to insert a list of %1$s\"Out of stock\"%2$s products in the quote "
+"by simply clicking  \"Add to quote\" button"
+msgstr ""
+
+#: ../templates/admin/premium.php:561
+msgid "ACCOUNT REGISTRATION"
+msgstr ""
+
+#: ../templates/admin/premium.php:564
+#, php-format
+msgid ""
+"A new feature for your e-commerce. New users requesting a quote have the "
+"possibility to %1$sregister an account%2$s in the shop"
+msgstr ""
+
+#: ../templates/admin/premium.php:574
+msgid "REQUEST SENDING CONFIRMATION"
+msgstr ""
+
+#: ../templates/admin/premium.php:576
+#, php-format
+msgid ""
+"Choose the action to make soon after users send the request: %1$snotify%2$s "
+"them of the successful outcome or %1$sredirect%2$s them to the specific page "
+"that your marketing strategy provides."
+msgstr ""
+
+#: ../templates/admin/premium.php:592
+msgid "QUICKLY TO CHECKOUT"
+msgstr ""
+
+#: ../templates/admin/premium.php:595
+#, php-format
+msgid ""
+"You made the proposal to your user who decides to accept it. What does "
+"happen now? %1$sThe most logical thing!%2$s User is redirected to the "
+"checkout page to complete the order according to the quote received. Easy "
+"and fast."
+msgstr ""
+
+#: ../templates/admin/premium.php:605
+msgid "CREATE THE QUOTES IN AN AUTOMATIC WAY"
+msgstr ""
+
+#: ../templates/admin/premium.php:607
+#, php-format
+msgid ""
+"You may constantly receive quote requests to which you cannot reply in a "
+"fast way. This means losing possible customers every day.%3$s Never fear! "
+"Our %1$sYITH WooCommerce Request a Quote allows you to create and send "
+"automatic replies to users%2$s, including a quote calculated on the original "
+"price of the products. %3$sThe perfect solution if your users don’t know the "
+"prices if you have decided to hide them. "
+msgstr ""
+
+#: ../templates/admin/premium.php:623
+msgid "Create quote by admin"
+msgstr ""
+
+#: ../templates/admin/premium.php:626
+msgid ""
+"Do you want to send a tempting offer to your customers? Today, with YITH "
+"WooCommerce Request a Quote, that’s easy!"
+msgstr ""
+
+#: ../templates/admin/premium.php:629
+#, php-format
+msgid ""
+"In a few steps, you can %1$screate a new quote from the backend%2$s of your "
+"website and forward it to the email address you entered: users will receive "
+"the quote for the list of products they have chosen and will be able to "
+"decide whether they want to %1$saccept%2$s or %1$srefuse%2$s the special "
+"offer you designed for them."
+msgstr ""
+
+#: ../templates/admin/premium.php:632
+msgid "Today your store has a new edge!"
+msgstr ""
+
+#: ../templates/emails/plain/request-quote.php:15
+#, php-format
+msgid ""
+"You have received a quote request from %s. The request is the following:"
+msgstr ""
+"Sie haben eine Preisanvorschlag von %s erhalten. Die Anforderung lautet wie "
+"folgt:"
+
+#: ../templates/emails/plain/request-quote.php:45
+#: ../templates/emails/request-quote.php:52
+msgid "Customer message"
+msgstr "Kunden Nachricht:"
+
+#: ../templates/emails/plain/request-quote.php:50
+#: ../templates/emails/request-quote.php:55
+msgid "Customer details"
+msgstr "Kunden Details:"
+
+#: ../templates/emails/plain/request-quote.php:52
+#: ../templates/emails/request-quote.php:57
+msgid "Name:"
+msgstr "Name:"
+
+#: ../templates/emails/plain/request-quote.php:53
+#: ../templates/emails/request-quote.php:58
+msgid "Email:"
+msgstr "Emailadresse:"
+
+#: ../templates/emails/request-quote.php:13
+#, php-format
+msgid "You received a quote request from %s. The request is the following:"
+msgstr ""
+"Sie haben eine Preisanvorschlag von %s erhalten. Die Anforderung lautet wie "
+"folgt:"
+
+#: ../templates/emails/request-quote.php:17
+msgid "Request Quote"
+msgstr "Angebotsanfrage"
+
+#: ../templates/emails/request-quote.php:22
+#: ../templates/request-quote-view.php:21
+msgid "Product"
+msgstr "Produkt"
+
+#: ../templates/emails/request-quote.php:23
+#: ../templates/request-quote-view.php:22
+msgid "Quantity"
+msgstr "Menge"
+
+#: ../templates/emails/request-quote.php:24
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: ../templates/request-quote-form.php:19
+msgid "Send the request"
+msgstr "Anfrage senden"
+
+#: ../templates/request-quote-form.php:24
+msgid "Name"
+msgstr "Name"
+
+#: ../templates/request-quote-form.php:30
+msgid "Email"
+msgstr "Emailadresse"
+
+#: ../templates/request-quote-form.php:36
+msgid "Message"
+msgstr "Nachricht:"
+
+#: ../templates/request-quote-form.php:37
+msgid "Notes on your request..."
+msgstr "Hinweise zu Ihrer Anfrage"
+
+#: ../templates/request-quote-form.php:42
+msgid "Send Your Request"
+msgstr "Anfrage senden"
+
+#: ../templates/request-quote-view.php:13
+msgid "No products in list"
+msgstr "Keine Produkte in der Liste"
+
+#: ../templates/request-quote-view.php:23
+msgid "Total"
+msgstr "Gesamtsumme"
+
+#: ../templates/request-quote-view.php:36
+msgid "Remove this item"
+msgstr "Artikel entfernen"
+
+#: ../templates/request-quote-view.php:56
+msgid " SKU:"
+msgstr ""
+
+#: ../templates/request-quote-view.php:147
+msgid "Update List"
+msgstr "Angebotliste aktualisieren"
+
+#: ../yith-woocommerce-request-a-quote.php:44
+msgid ""
+"You can't activate the free version of YITH Woocommerce Request A Quote "
+"while you are using the premium one."
+msgstr ""
+"Sie können nicht die kostenlose Version von Yith WooCommerce Request A Quote "
+"aktivieren, während Sie die Premium Version haben."
+
+#: ../yith-woocommerce-request-a-quote.php:104
+msgid ""
+"YITH Woocommerce Request A Quote is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"Yith WooCommerce Request A Quote ist aktiviert, aber nicht effektiv. Es "
+"erfordert WooCommerce, damit es funktionier."
+
+#~ msgid "new"
+#~ msgstr "Neu"
+
+#~ msgid "pending"
+#~ msgstr "Bevorstehend"
+
+#~ msgid "expired"
+#~ msgstr "Abgelaufen"
+
+#~ msgid "rejected"
+#~ msgstr "Abgelehnt"
+
+#~ msgid "accepted"
+#~ msgstr "Akzeptiert"
+
+#~ msgid "Plugin not activated or not installed"
+#~ msgstr "Plugin ist nicht aktiviert oder Installiert"
+
+#~ msgid "No contact form found"
+#~ msgstr "Kein Kontaktformular gefunden"
+
+#~ msgid ""
+#~ "Add a wigdet in the sidebar of your shop and put it at your customers' "
+#~ "disposal. There they will see a %slist%s with all products they have "
+#~ "selected and added to the quote request so far."
+#~ msgstr ""
+#~ "Fügen Sie ein Widget in die Seitenleiste Ihres Shops und stellen Sie das  "
+#~ "Ihren Kunden zur Verfügung. Dort sehen sie eine %slist %s über alle "
+#~ "Produkte, die Ihre kunden auswählen und in Preisanfrage hinzugefügt haben."
