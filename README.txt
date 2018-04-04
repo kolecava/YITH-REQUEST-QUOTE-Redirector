@@ -1,4 +1,18 @@
-﻿=== YITH WooCommerce Request A Quote ===
+﻿=== Redirection Change ===
+
+This edit of 'YITH WooCommerce Request a Quote' includes an additional line of code found in the following path.
+\YITH-REQUEST-QUOTE-Redirector\includes\class.yith-request-quote.php on lines 580 to 581
+
+                    /** Add the URL of the page you wish to redirect to below **/
+                    wp_redirect( header('Location: https://www.mydomain.com/'), 301 );
+					
+The line of code allows you to specify which page you wish to redirect after submission of the request form.
+
+=== PLEASE NOTE ===
+
+This plugin will NOT be updated, you do not even have to download this repo, simply copy and paste the above code in the respective lines (line 580, line 581) in the 'class.yith-request-quote.php' file.
+
+=== YITH WooCommerce Request A Quote ===
 
 Contributors: yithemes
 Tags: request a quote button, woocommerce request for quote, woocommerce request a quote shortcode, request a quote, quote, yithemes, woocommerce, shop, ecommerce, e-commerce, quotations, request for quote, rfq, raq, proposal, ask an estimate, budget, email quote
